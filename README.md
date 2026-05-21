@@ -1,2 +1,2 @@
 # UniLink
-a student-lecturer communication app fro sharing past papers and announcement
+a student-lecturer communication app for sharing past papers and announcement currently on progress
